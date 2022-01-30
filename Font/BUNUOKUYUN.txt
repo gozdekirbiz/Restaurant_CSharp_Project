@@ -1,0 +1,3 @@
+.txt hariç hepsini seçip sağ tıklayın.yükle deyin.
+bundan sonra projede font kullanmamız gerektiğinde bunları kullanıcaz.
+pro olanlarda sayılar da gözüküyor aklınızda bulunsun.
